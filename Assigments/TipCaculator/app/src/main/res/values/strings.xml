@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+    <string name="enter_bill_total">Enter Bill Total</string>
+    <string name="caclculate_tip">Caclculate Tip</string>
+    <string name="tip_amounts_will_display_here">Tip amounts will display here</string>
+    <string name="calculate">Calculate</string>
+    <string name="_10_tip">10% Tip:</string>
+    <string name="_15_tip">15% Tip:</string>
+    <string name="_20_tip">20% Tip:</string>
+    <string name="you_must_enter_an_amount">You must enter an amount</string>
+</resources>
