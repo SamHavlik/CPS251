@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CoroutinesProject</string>
+    <string name="add_name">ADD NAME</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="processing_message">%1$s is being processed...</string>
+    <string name="result_message">The name was %1$s and the delay was %2$d ms</string>
+</resources>
